@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+
+
+
+
+    <item
+        android:id="@+id/action_about"
+        android:showAsAction="never"
+        android:title="@string/action_about" />
+
+    <!-- Check updates -->
+    <item
+        android:id="@+id/action_check_updates"
+        android:showAsAction="never"
+        android:title="@string/action_check_updates" />
+
+
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_settings_black_24dp"
+        app:showAsAction="never"
+        android:title="setting / remove User" />
+
+</menu>

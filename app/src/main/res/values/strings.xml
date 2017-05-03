@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">IsimKayit</string>
+    <string name="title_home">Monitor</string>
+    <string name="title_dashboard">Sunucular</string>
+    <string name="title_notifications">Log</string>
+
+    <string name="action_rate">Rate App</string>
+    <string name="action_share">Share</string>
+    <string name="action_close">Exit</string>
+    <string name="dialog_OK">OK</string>
+    <string name="error_msg">Internet is not available. Please check the connectivity</string>
+    <string name="splash_screen_desc">News from different parts of world at one place</string>
+    <string name="action_zoom">Zoom</string>
+    <string name="action_about">About</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_check_updates">Update</string>
+    <string name="action_rate_app">Rate this App</string>
+
+    <string name="about_app_desc">
+    <![CDATA[<b><font color="#ebebeb">About</font color></b><br>
+    İsim Kayıt
+    <br><b>
+    .................
+    </b><br>
+   0 (850) 290 33 44
+    <br>
+    </b><br>
+   0 (262) 606 02 24
+     <br>
+    </b><br>
+   0 (850) 290 33 45
+    <br>
+    </b><br>
+     bilgi@isimkayit.com
+     <br>
+     Esentepe Mah. Ağadere Cad. NO:75 Körfez/Kocaeli
+    <br><br>
+    <b><font color="#ebebeb">Version:</b></font color>1.0.1<br>
+    ]]>
+   </string>
+
+
+
+</resources>

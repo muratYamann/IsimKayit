@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "212221190403",
+    "firebase_url": "https://isimkayit-9a473.firebaseio.com",
+    "project_id": "isimkayit-9a473",
+    "storage_bucket": "isimkayit-9a473.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212221190403:android:f9ffcf0442eaab02",
+        "android_client_info": {
+          "package_name": "com.yamankod.isimkayit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212221190403-mcde9juv9qua4jiicebmajq0ursnj35i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLTZ1jg1Eg2diFaeoFARc22biceK7zUOM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/isim_kayit_logo_blur"
+    tools:context=".activity.SplashScreen">
+
+
+        <TextView
+
+            android:gravity="center_horizontal"
+            android:layout_marginTop="60dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="isim Kayit"
+            android:layout_marginBottom="100dp"
+            android:id="@+id/app_namee"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="sans-serif-thin"
+            android:textSize="45sp"
+            android:textColor="@android:color/white"
+            android:textIsSelectable="false" />
+
+
+
+
+
+</RelativeLayout>
